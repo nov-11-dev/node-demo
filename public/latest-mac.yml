@@ -1,0 +1,11 @@
+version: 0.1.1
+files:
+  - url: vue-electron-demo-0.1.1-mac.zip
+    sha512: RT3yTzno5P1Fo9GXW6295OuS8/+p9fQW2IcFdGKgJh9YPyyBRbFuojJDh9efg5hgBfHHMPedxPBDFYoY5lgIew==
+    size: 76296976
+  - url: vue-electron-demo-0.1.1.dmg
+    sha512: kjCvoUH6mbrZbkI6AnvIY0Jnr4cepui9WwVnmBHHEaIDUmsmNJu0iKJr7MLK02IFAJkmxUkk5OY7EAgrUMG98g==
+    size: 79166205
+path: vue-electron-demo-0.1.1-mac.zip
+sha512: RT3yTzno5P1Fo9GXW6295OuS8/+p9fQW2IcFdGKgJh9YPyyBRbFuojJDh9efg5hgBfHHMPedxPBDFYoY5lgIew==
+releaseDate: '2021-12-22T07:07:11.016Z'
